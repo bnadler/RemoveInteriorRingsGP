@@ -1,0 +1,23 @@
+D:\temp\GeoPtool\GPCustomCalculateAreaFunctionTool\VBNet\GPCalculateArea\bin\Debug\GPCalculateArea.dll
+D:\temp\GeoPtool\GPCustomCalculateAreaFunctionTool\VBNet\GPCalculateArea\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\GeoPtool\GPCustomCalculateAreaFunctionTool\VBNet\GPCalculateArea\bin\Debug\GPRemoveInteriorRings.dll
+D:\temp\GeoPtool\GPCustomCalculateAreaFunctionTool\VBNet\GPCalculateArea\obj\Debug\GPRemoveInteriorRings.dll
+D:\temp\GeoPtool\GPCustomCalculateAreaFunctionTool\VBNet\GPCalculateArea\obj\Debug\GPRemoveInteriorRings.pdb
+D:\temp\GeoPtool\GPCustomCalculateAreaFunctionTool\VBNet\GPCalculateArea\bin\GPRemoveInteriorRings.dll
+D:\temp\GeoPtool\GPCustomCalculateAreaFunctionTool\VBNet\GPCalculateArea\bin\GPRemoveInteriorRings.pdb
+D:\temp\GeoPtool\GPCustomCalculateAreaFunctionTool\VBNet\GPCalculateArea\bin\GPRemoveInteriorRings.tlb
+D:\temp\GeoPtool\VBNet\GPRemoveInteriorRings\bin\GPRemoveInteriorRings.dll
+D:\temp\GeoPtool\VBNet\GPRemoveInteriorRings\bin\GPRemoveInteriorRings.pdb
+D:\temp\GeoPtool\VBNet\GPRemoveInteriorRings\bin\GPRemoveInteriorRings.tlb
+D:\temp\GeoPtool\VBNet\GPRemoveInteriorRings\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\GeoPtool\VBNet\GPRemoveInteriorRings\obj\Debug\GPRemoveInteriorRings.dll
+D:\temp\GeoPtool\VBNet\GPRemoveInteriorRings\obj\Debug\GPRemoveInteriorRings.pdb
+D:\temp\GeoPtool\VBNet\GPRemoveInteriorRings\bin\debug\GPRemoveInteriorRings.dll
+D:\temp\GeoPtool\VBNet\GPRemoveInteriorRings\bin\debug\GPRemoveInteriorRings.pdb
+D:\temp\GeoPtool\VBNet\GPRemoveInteriorRings\bin\debug\GPRemoveInteriorRings.tlb
+C:\Users\ben7682\Documents\GitHub\RemoveInteriorRings\RemoveInteriorRings -\GPRemoveInteriorRings\bin\debug\GPRemoveInteriorRings.dll
+C:\Users\ben7682\Documents\GitHub\RemoveInteriorRings\RemoveInteriorRings -\GPRemoveInteriorRings\bin\debug\GPRemoveInteriorRings.pdb
+C:\Users\ben7682\Documents\GitHub\RemoveInteriorRings\RemoveInteriorRings -\GPRemoveInteriorRings\bin\debug\ESRI.ArcGIS.ADF.dll
+C:\Users\ben7682\Documents\GitHub\RemoveInteriorRings\RemoveInteriorRings -\GPRemoveInteriorRings\bin\debug\ESRI.ArcGIS.ADF.xml
+C:\Users\ben7682\Documents\GitHub\RemoveInteriorRings\RemoveInteriorRings -\GPRemoveInteriorRings\obj\Debug\GPRemoveInteriorRings.dll
+C:\Users\ben7682\Documents\GitHub\RemoveInteriorRings\RemoveInteriorRings -\GPRemoveInteriorRings\obj\Debug\GPRemoveInteriorRings.pdb
