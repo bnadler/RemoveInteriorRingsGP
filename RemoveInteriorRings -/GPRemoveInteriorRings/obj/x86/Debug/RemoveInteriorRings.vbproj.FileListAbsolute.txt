@@ -1,0 +1,5 @@
+C:\Ben\Visual Studio\RemoveInteriorRings\GPRemoveInteriorRings\bin\x86\Debug\GPRemoveInteriorRings.dll
+C:\Ben\Visual Studio\RemoveInteriorRings\GPRemoveInteriorRings\bin\x86\Debug\GPRemoveInteriorRings.pdb
+C:\Ben\Visual Studio\RemoveInteriorRings\GPRemoveInteriorRings\bin\x86\Debug\GPRemoveInteriorRings.tlb
+C:\Ben\Visual Studio\RemoveInteriorRings\GPRemoveInteriorRings\obj\x86\Debug\GPRemoveInteriorRings.dll
+C:\Ben\Visual Studio\RemoveInteriorRings\GPRemoveInteriorRings\obj\x86\Debug\GPRemoveInteriorRings.pdb

@@ -1,0 +1,11 @@
+ArcGIS Code Migration analyzer run on 06/25/2015 at 11:54 AM
+--------------------------------------------------------------
+Analyzing project: RemoveInteriorRings
+
+The solution platform should be set to x86 so it can run properly on 64-bit machines.
+
+Replace assembly reference ESRI.ArcGIS.ADF with ESRI.ArcGIS.ADF.Local.
+
+-------------------------
+
+Finished analysis. Check the Warnings in the Visual Studio Error List window for migration issues. 2 migration issues found.

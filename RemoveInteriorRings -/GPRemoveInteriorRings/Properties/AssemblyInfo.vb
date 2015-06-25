@@ -21,7 +21,7 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyTitle("GPRemoveInteriorRings")> 
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyConfiguration("")>
-<Assembly: AssemblyCompany("El Paso Electric")> 
+<Assembly: AssemblyCompany("Esri")> 
 <Assembly: AssemblyProduct("GPRemoveInteriorRings")> 
 <Assembly: AssemblyCopyright("")> 
 <Assembly: AssemblyTrademark("")>
